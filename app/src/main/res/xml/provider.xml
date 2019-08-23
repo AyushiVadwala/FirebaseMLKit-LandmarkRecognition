@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    //Our app will use public external storage//
+
+    <external-path name="external_files" path="."/>
+</paths>
